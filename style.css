@@ -1,0 +1,42 @@
+.head{
+    font-family: bitter ;
+    color: rgb(97, 97, 97);
+    font-size: 40px;
+}
+.head2{
+    font-family: bitter;
+    color: #2d98da;
+    font-size: 40px;
+}
+p{
+    font-family: lato;
+    font-size: large ;
+    color: dimgray;
+}
+.link-button{ text-decoration: none;
+    background-image :linear-gradient(90deg,#25CCF7,#1B9CFC );
+    padding: 10px 20px;
+    border-radius:6px;
+    font-family: roboto slab;
+    color: white;
+    font-size: bold;}
+    .top-area{
+        width: 40%;
+        margin: 2%;
+        padding: 3%;
+        float:left;
+        
+    }
+    .top-area img{
+        width: 600px;
+        float: left;
+        
+    }
+    .contact-info{
+        font-family: lato;
+        color: rgb(66, 66, 66);
+        text-align: left;
+        float: right;
+        margin: 2%;
+        
+  
