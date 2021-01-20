@@ -41,12 +41,64 @@ BODY{
         text-align: left;
         float: right;
         margin: 2%;}
-         ;
+         
             
-        }
-        #color{ color:#778beb}
-        #edit{
+        
+        
+        #size{
             padding-top: 100%;
             text-align: center;
             font-family:bitter;
+            font-size: 40px;
+            color: rgb(97, 97, 97) ;
         }
+        #c{
+            color:white;
+            border: 2px solid;
+            border-color: rgb(236, 236, 236);
+            background-color: #25CCF7;
+            border-radius: 10px;
+        }
+    
+            
+        
+        .bottom{
+            
+            width: 22%;
+            margin: 2%;
+            padding: 1%;
+            box-shadow: 5px 5px 10px rgb(141, 141, 141);
+            border-radius: 10px;
+            float: left ;
+            position: relative;
+            left: 9%;
+
+
+            
+            
+
+        }
+        .bottom img{
+            width: 300px;
+        }
+        .text{font-family: bitter ;
+            color: rgb(97, 97, 97)}
+            #work{
+                font-family: bitter;
+                font-size: 40px;
+                text-align: center;
+                
+            }
+           
+            .back{
+                background-image:  url("images/back.png");
+                background-position: right;
+                background-size: cover;
+                background-repeat: no-repeat;
+                float:center;
+                padding:15%;
+                margin:40%;
+                
+                
+                
+            }
